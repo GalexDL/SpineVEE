@@ -1,2 +1,4 @@
 # SpineVEE
-General Spine Viewer with soft editing capabilities
+General spine viewer with soft editing capabilities
+
+> Qoute
