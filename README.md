@@ -25,6 +25,7 @@ General spine viewer with soft editing capabilities
 
 # Planned features when i have time
 - Complete rewrite, to support the newest versions of PixiJS and basically Pixi 4.2.
+- Local File Uploading (idk how :P)
 
 # Contact
 - If i missed any potential features that is possible in this version of Pixi or any MAJOR bugs. Contact me on twitter: @LostGalex
