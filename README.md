@@ -22,8 +22,9 @@ General spine viewer with soft editing capabilities
 
 # Planned Features for v1.2 (May or may not happen.)
 - Capture animation as a gif, mp4, webp, or multi image output.
+- Multi-Model Loading
 
-# Planned features when i have time
+# Planned features when i have time (May or may not happen.)
 - Complete rewrite, to support the newest versions of PixiJS and basically Pixi 4.2.
 - Local File Uploading (idk how :P)
 
