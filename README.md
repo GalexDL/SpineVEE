@@ -16,6 +16,20 @@ General spine viewer with soft editing capabilities
 - Model Scale Adjuster
 - Model Position Adjuster
 
+# Set-up Guide
+This is a website that you have to run locally. If you have no knowledge of how to, its very simple.
+
+- Download the ZIP file in releases and extract it 
+- Download VSCode
+- Go to Extensions and Install 'Live Server' created by Ritwick Dey (https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- Click File, Open Folder, and click the folder you extracted previously
+- After the project fully loads in, you should see a "Go live" button on the bottom of the screen.
+- which should bring up your browser, if it doesnt type [Insert IP Here]:5500 or 127.0.0.1:5500 into your browser
+
+# Adding your model
+- Put all your files needed for you model in SleepData/YourModelHere (make more folders if you want to use more then one)
+- Go to data and open model.json and atlas.json and put he folder path to the relavant files
+
 # Planned Features for v1.1
 - Animation Scene Creator
 - Proper Mobile UI Support (quite a few bugs)
@@ -31,16 +45,3 @@ General spine viewer with soft editing capabilities
 # Contact
 - If i missed any potential features that is possible in this version of Pixi or any MAJOR bugs. Contact me on twitter: @LostGalex
 
-# Set-up Guide
-This is a website that you have to run locally. If you have no knowledge of how to, its very simple.
-
-- Download the ZIP file in releases and extract it 
-- Download VSCode
-- Go to Extensions and Install 'Live Server' created by Ritwick Dey (https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-- Click File, Open Folder, and click the folder you extracted previously
-- After the project fully loads in, you should see a "Go live" button on the bottom of the screen.
-- which should bring up your browser, if it doesnt type [Insert IP Here]:5500 or 127.0.0.1:5500 into your browser
-
-# Adding your model
-- Put all your files needed for you model in SleepData/YourModelHere (make more folders if you want to use more then one)
-- Go to data and open model.json and atlas.json and put he folder path to the relavant files
