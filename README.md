@@ -30,6 +30,17 @@ This is a website that you have to run locally. If you have no knowledge of how 
 - Put all your files needed for you model in SleepData/YourModelHere (make more folders if you want to use more then one)
 - Go to data and open model.json and atlas.json and put he folder path to the relavant files
 
+# Main Navigation
+- Select your Model
+![upload_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24](https://github.com/user-attachments/assets/054c9569-2d6a-4187-858f-8c170743aef5)
+
+- Animation Timeline Stuff
+![animation_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24](https://github.com/user-attachments/assets/144e4499-ef2a-4bcb-972a-3e7275116b04)
+
+- Skin Selector and Atlas/BG Editor
+![palette_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24](https://github.com/user-attachments/assets/3256eb9e-b309-4cc8-8e18-047062185213)
+
+
 # Planned Features for v1.1
 - Animation Scene Creator
 - Proper Mobile UI Support (quite a few bugs)
